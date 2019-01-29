@@ -1,0 +1,19 @@
+{
+  "name": "color-guess",
+  "version": "1.0.0",
+  "description": "Guess color package operations to build closer colour from given base and target colours",
+  "main": "index.js",
+  "repository": "git@github.com:sielay/color-guess.git",
+  "author": "Łukasz Marek Sielski <lukasz.sielski@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "color": "^3.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "mocha": "^5.2.0"
+  }
+}
